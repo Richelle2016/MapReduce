@@ -1,0 +1,14 @@
+a	1
+chaque	3
+je	1
+jour	2
+la	2
+lave	2
+l'ecole	1
+maman	2
+mange	1
+matin	1
+papa	1
+patate	2
+se	1
+vais	1

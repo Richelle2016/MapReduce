@@ -1,0 +1,5 @@
+The mapper function is base on the reading of every word in the file as a key and assign the value with is 1 for every word founded.
+
+The reducer function is typically based on 2 variables last_key and this_key.last_key is like a blocked variable with changes every time a knew different word is founded and this_key is the variable incrementing the running_total.So the first for loop alows us to read and count the number of repetitions of every distinct word and print them eccept the last word witch is printed out of the loop.
+
+I just test the code with the file.txt with the comand cat file.txt | ./Mapper.py | sort | ./ Reducer.py > output.txt
